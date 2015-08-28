@@ -15,3 +15,10 @@ html {
     padding: 1em;
     width: 90%;
 }
+
+#udacityU {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    float: right;
+    margin-left: 1em;
+    width: 30%;
+}
