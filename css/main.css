@@ -16,8 +16,14 @@ p {
 .container {
     background: white;
     margin: 1em auto;
+    max-width: 1200px;
     padding: 1em;
     width: 90%;
+}
+.container::after {
+    clear: both;
+    content: '';
+    display: block;
 }
 
 .container > h1 {
