@@ -9,6 +9,10 @@ html {
     box-sizing: inherit;
 }
 
+p {
+    line-height: 1.5;
+}
+
 .container {
     background: white;
     margin: 1em auto;
