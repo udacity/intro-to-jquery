@@ -32,6 +32,7 @@ p:last-child {
 #udacityU {
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
     float: right;
-    margin-left: 1em;
+    margin: 0 0 1em 1em;
+    min-width: 150px;
     width: 30%;
 }
